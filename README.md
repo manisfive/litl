@@ -1,4 +1,14 @@
 # litl
+This is a sloppy and untested modification of the Litl into 47 key ortholinear layout with Gateron low-profile switches. Only the Kicad files have been changed. One of the encoder diodes was repurposed, so the original firmware will need tweaking and the layout supports one OLED and one clicky encoder, assuming I didn't ruin anything. 
+
+![ortho litl pcb](img/orthopcb.png "ortho layout")
+
+Original readme continues below:
+
+
+
+
+------------------------
 Litl is an easy to build 40% keyboard using only through hole components. It uses a separate microcontroller (like the Pro Micro or Elite C) to enable flexibility in connectivity and to further simplify the soldering experience (no more tricksy USB ports).
 
 ![litl](img/litl_oled.jpeg "litl")
